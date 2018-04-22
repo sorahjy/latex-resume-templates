@@ -197,9 +197,9 @@
           \ifthenelse{\equal{\cvlinkedin}{}}{}{
             {$
               \begin{array}{l}
-              {\href{\cvlinkedin}{\includegraphics[scale=0.04]{img/LinkedIn_Logo.png}}}
+              {\href{\cvlinkedin}{\includegraphics[scale=0.05]{img/github.png}}}
               \end{array}
-              $} & \href{\cvlinkedin}{\hspace{16mm}/in/hsgadgil} \\
+              $} & \href{\cvlinkedin}{github.com/sorahjy} \\
             }
       \ifthenelse{\equal{\cvnumberphone}{}}{}{
             {$
@@ -232,20 +232,18 @@
         
         %------------------------------------------------
         \vspace{3mm}
-        \profilesection{Interests}{3cm} 
+        \profilesection{Programming}{1.5cm} 
         
         \interests
         
-        \vspace{3mm}
-        \profilesection{Languages}{2.4cm} 
-        {$
-              % \begin{array}{l}
-              % \hspace{-2mm}{\includegraphics[scale=0.45]{img/languages_muted.png}}
-              % \end{array}
-               \begin{tabular}{lrlll}
-                  \textsc{English:} & Listening & \ding{72}\ding{72}\ding{72}\ding{72} &\textsc{CET-4: 590}
-            \end{tabular}
-        $}   
+        % \vspace{3mm}
+        % \profilesection{Languages}{2.4cm} 
+        % {$
+            
+        %        \begin{tabular}{lrlll}
+        %           \textsc{English:} & Listening & \ding{72}\ding{72}\ding{72}\ding{72}\ding{73} &\textsc{CET-6: 590}
+        %     \end{tabular}
+        % $}   
   \end{textblock}
 }
 

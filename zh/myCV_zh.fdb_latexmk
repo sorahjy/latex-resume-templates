@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1524373683 "myCV_zh.xdv" "myCV_zh.pdf" "myCV_zh" 1524373684
-  "myCV_zh.xdv" 1524373683 54060 396a5a54726c6e7533aaf06e2123ae82 "xelatex"
+["xdvipdfmx"] 1524386840 "myCV_zh.xdv" "myCV_zh.pdf" "myCV_zh" 1524386841
+  "myCV_zh.xdv" 1524386840 48744 de54ad7abcfa3ddb87706fe9588b0803 "xelatex"
   (generated)
   "myCV_zh.pdf"
-["xelatex"] 1524373681 "myCV_zh.tex" "myCV_zh.xdv" "myCV_zh" 1524373684
+["xelatex"] 1524386837 "myCV_zh.tex" "myCV_zh.xdv" "myCV_zh" 1524386841
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1480098689 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1480098689 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -160,15 +160,15 @@
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
   "img/avatar.jpg" 1508660567 198129 b358a186941f2d8a153d75e344542a0c ""
   "img/email.png" 1481867704 5905 d5cfcd432e3c808fcff050f28c682d10 ""
+  "img/github.png" 1524386135 153728 9930041795a1da2eede01f3d7a295e68 ""
   "img/globe-512.png" 1481867704 31678 159ca3d9771bbaddf9f1c6cd2fd63c5b ""
   "img/tel.png" 1481867704 8660 820fb42bf7aed3398227bee25ba1d822 ""
-  "img/trophy.png" 1481867704 26246 50348baaa112df3780f3d53e4a76493b ""
-  "myCV_zh.aux" 1524373683 672 9062878249282d31252d540add167002 ""
-  "myCV_zh.out" 1524373683 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "myCV_zh.tex" 1524373680 6695 a1e582ac48368c4f8acaf13f3e550826 ""
-  "twentysecondcv.cls" 1524369299 11457 9613a65ae84d9f3014f40b827adbeb9b ""
+  "myCV_zh.aux" 1524386840 672 9062878249282d31252d540add167002 ""
+  "myCV_zh.out" 1524386840 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "myCV_zh.tex" 1524386837 6964 9bb15a887d63615ab8cea30ae275ec45 ""
+  "twentysecondcv.cls" 1524385797 11337 ada494275931c98375dcf20a8452f7a2 ""
   (generated)
-  "myCV_zh.log"
   "myCV_zh.xdv"
-  "myCV_zh.out"
+  "myCV_zh.log"
   "myCV_zh.aux"
+  "myCV_zh.out"

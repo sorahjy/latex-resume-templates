@@ -1,4 +1,4 @@
-PWD /Users/sorahjy/Downloads/myCV
+PWD /Users/sorahjy/Desktop/github/myCV/zh
 INPUT /usr/local/texlive/2017/texmf.cnf
 INPUT /usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2017/texmf-var/web2c/xetex/xelatex.fmt
@@ -276,9 +276,9 @@ INPUT myCV_zh.out
 INPUT myCV_zh.out
 OUTPUT myCV_zh.out
 INPUT img/avatar.jpg
+INPUT img/github.png
 INPUT img/tel.png
 INPUT img/globe-512.png
 INPUT img/email.png
-INPUT img/trophy.png
 OUTPUT myCV_zh.xdv
 INPUT myCV_zh.aux
