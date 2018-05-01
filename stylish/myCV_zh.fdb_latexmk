@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1525147727 "myCV_zh.xdv" "myCV_zh.pdf" "myCV_zh" 1525147728
-  "myCV_zh.xdv" 1525147727 41404 c070504acd27ca463ac3d0225fc96258 "xelatex"
+["xdvipdfmx"] 1525157461 "myCV_zh.xdv" "myCV_zh.pdf" "myCV_zh" 1525157463
+  "myCV_zh.xdv" 1525157461 41400 4c9c14d033cd7d285551bfbebb7dbd3e "xelatex"
   (generated)
   "myCV_zh.pdf"
-["xelatex"] 1525147724 "myCV_zh.tex" "myCV_zh.xdv" "myCV_zh" 1525147728
+["xelatex"] 1525157456 "myCV_zh.tex" "myCV_zh.xdv" "myCV_zh" 1525157462
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1480098689 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1480098689 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -167,17 +167,17 @@
   "/usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf" 1494087824 32646 eadc4ca26cdbe7105ac7c593aa8c4f72 ""
   "/usr/local/texlive/2017/texmf-var/web2c/xetex/xelatex.fmt" 1519097376 3678524 f7103d26e18b2a0f80a83839d10c527b ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
+  "img/avatar.jpg" 1525157452 50065 33760dc69496922d2adb59f3f6c8cfc5 ""
   "img/email.png" 1525054963 5905 d5cfcd432e3c808fcff050f28c682d10 ""
   "img/github.png" 1525054963 153728 9930041795a1da2eede01f3d7a295e68 ""
   "img/globe-512.png" 1525054963 31678 159ca3d9771bbaddf9f1c6cd2fd63c5b ""
   "img/tel.png" 1525054963 8660 820fb42bf7aed3398227bee25ba1d822 ""
-  "img/trophy.png" 1525054963 26246 50348baaa112df3780f3d53e4a76493b ""
-  "myCV_zh.aux" 1525147727 672 9062878249282d31252d540add167002 ""
-  "myCV_zh.out" 1525147727 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "myCV_zh.tex" 1525147724 5859 6f2b617c7a555b50bb8fadbc1a41caf6 ""
+  "myCV_zh.aux" 1525157461 672 9062878249282d31252d540add167002 ""
+  "myCV_zh.out" 1525157460 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "myCV_zh.tex" 1525157405 5859 5cf5fefbcd76598cb6d7820f1db5ab3c ""
   "twentysecondcv.cls" 1525054963 11337 ada494275931c98375dcf20a8452f7a2 ""
   (generated)
-  "myCV_zh.log"
-  "myCV_zh.xdv"
   "myCV_zh.aux"
   "myCV_zh.out"
+  "myCV_zh.log"
+  "myCV_zh.xdv"

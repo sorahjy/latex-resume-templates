@@ -275,7 +275,7 @@ INPUT myCV_zh.out
 INPUT myCV_zh.out
 INPUT myCV_zh.out
 OUTPUT myCV_zh.out
-INPUT img/trophy.png
+INPUT img/avatar.jpg
 INPUT img/github.png
 INPUT img/tel.png
 INPUT img/globe-512.png
