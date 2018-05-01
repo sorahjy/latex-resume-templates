@@ -2,7 +2,9 @@
 %\usepackage[colorlinks,linkcolor=red]{hyperref}
 \usepackage{enumitem}
 \usepackage{graphicx}
-
+\usepackage{xeCJK}
+\usepackage{xltxtra}
+\XeTeXlinebreaklocale "zh"
 
 
 \begin{document}
@@ -11,7 +13,7 @@
 
 % Name, phone, email, etc.
 \begin{cvHeader}
-	\printName{Junyang Huang}
+	\printName{黄 \ 君 \ 扬}
 	\printPhone{(+86)180-1900-2473 \qquad \qquad \qquad}
 	\printEmail{sorahjy@gmail.com \qquad \qquad \qquad \ }
 	\printWebsite{https://blog.sorahjy.com}
@@ -23,10 +25,10 @@
 %
 
 \sectionTitle{Education}
-\begin{sectionContentSimple}{University of Shanghai for Science and Technology}{Sep. 2015 - Present}
-	\item B.Eng. in Computer Science and Technology
+\begin{sectionContentSimple}{上海理工大学}{Sep. 2015 - Present}
+	\item 本科大三在读 光电信息与计算机工程学院 上海理工大学
 	\begin{itemize}
-		\item GPA: 4.03 \quad Rank: 1/107 \quad Advisor: Assoc. Prof. Huan Huo
+		\item GPA: 4.03 \quad 排名: 1/107 \quad 学士导师: 霍欢 副教授
 	\end{itemize}
 	
 \end{sectionContentSimple}
@@ -67,15 +69,15 @@
 
 \sectionTitle{Awards, Grants \& Honors}
 \begin{description}{}
-	\item{\ \ } First Class Scholarship in four successive semesters (2016-2018).
-	\item{\ \ } Merit Student of University of Shanghai for Science and Technology, 2016 - 2017 Acadamic Year
-	\item{\ \ } Shanghai Scholarship in 2016 - 2017 Academic Year
-	\item{\ \ } The 8th Lan Qiao Cup (Java) Shanghai Site {\color{orangeRed}First Prize} \& National {\color{orangeRed}Second Prize}
-	\item{\ \ } China Undergraduates Mathematical Contest in Modeling Shanghai Region {\color{orangeRed}Third Prize}
-	\item{\ \ } The ACM-ICPC Asia Regional Contest Qingdao Site 2017 {\color{orangeRed}Silver Medal}
-	\item{\ \ } 2017 Asia and Pacific Mathematical Contest in Modeling {\color{orangeRed}Second Prize}
-	\item{\ \ } 3rd Group Programming Ladder Tournament Shanghai Region {\color{orangeRed}Grand Prize} \& National {\color{orangeRed}Third Prize}
-	\item{\ \ } The 9th Lan Qiao Cup (Java) Shanghai Site {\color{orangeRed}First Prize}
+	\item{\ \ } 学习优秀奖学金一等奖 (2016-2018连续四次)
+	\item{\ \ } 2016 - 2017 学年度上海理工大学优秀学生
+	\item{\ \ } 2017年上海市奖学金
+	\item{\ \ } 第八届蓝桥杯Java软件开发 \quad 省赛(上海){\color{orangeRed}一等奖} \& 全国 {\color{orangeRed}二等奖}
+	\item{\ \ } 2017年全国大学生数学建模竞赛上海赛区本科组 {\color{orangeRed}三等奖}
+	\item{\ \ } 第42届ACM-ICPC亚洲区域赛(青岛){\color{orangeRed}银奖}
+	\item{\ \ } 2017年APMCM亚太地区大学生数学建模竞赛 {\color{orangeRed}二等奖}
+	\item{\ \ } 第三届中国高校计算机团体程序设计天梯赛 \quad 上海市{\color{orangeRed}特等奖} \& 全国 {\color{orangeRed}三等奖}
+	\item{\ \ } 第九届蓝桥杯Java软件开发省赛(上海){\color{orangeRed}一等奖}
 \end{description}
 
 
@@ -87,20 +89,21 @@
 
 
 
-\begin{sectionContentSimple}{Hotel Management System.}{Oct. 2017 - Jan. 2018}
+\begin{sectionContentSimple}{酒店管理系统}{Oct. 2017 - Jan. 2018}
 	\item \url{https://github.com/sorahjy/HotelAstolfo}
-	\item Design the database schema and implement the coding of DAO \& unit test.
+	\item 团队项目共同开发。本人负责数据库设计，编写DAO和进行单元测试。
 \end{sectionContentSimple}
 
 
-\begin{sectionContentSimple}{A Portable Integrated Identity Authentication Method.}{Dec. 2017 - Mar. 2018}
+\begin{sectionContentSimple}{一种便携的集成身份认证方法}{Dec. 2017 - Mar. 2018}
 	\item \url{https://github.com/sorahjy/Identity-Authentication-WeAPP}
-	\item An application based on Face Recognition and Time-Based One-Time Password Algorithm.
+	\item 该项目基于人脸识别和TOTP动态密码算法，以一种平台的方式，提供多维度、多层次的身份认证服务。
+	\item 特点：部署方便，成本低廉，无需额外硬件设备。认证迅速，容易维护，易推广，易扩展。
 \end{sectionContentSimple}
 
 
-\begin{sectionContentNormal}{Network Computing Lab. }{Apr. 2017 \ - \ \ Present }{Lab Intern \ \ }
-	\item Research on Collaborative Filtering Recommendation Model based on Convolutional Denoising Auto Encoder. A new method was proposed to solve the cold start problem.
+\begin{sectionContentNormal}{网络计算实验室}{Apr. 2017 - \ \  Present \ }{实验室实习生 \ \ }
+	\item 参与课题《融合卷积降噪自动编码器的协同过滤推荐系统》。研究、讨论和设计一种新的模型来解决推荐系统中的冷启动问题。
 \end{sectionContentNormal}
 
 %
@@ -119,8 +122,8 @@
 
 \sectionTitle{Certificates}
 \begin{description}{}
-	\item{\ \ } English: CET-4 590 | CET-6 534
-	\item{\ \ } Shanghai College Computer Examination Level II C Language (Excellent, Score: 99/100)
+	\item{\ \ } 英语: CET-4 590 | CET-6 534
+	\item{\ \ } 上海市计算机等级考试二级 C 语言 (优秀，99/100 分)
 \end{description}
 
 
