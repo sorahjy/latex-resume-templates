@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="396135c6-25b0-4814-ab45-f8c46aab2c27" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylish/img/avatar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylish/myCV_zh.fdb_latexmk" beforeDir="false" afterPath="$PROJECT_DIR$/stylish/myCV_zh.fdb_latexmk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylish/myCV_zh.fls" beforeDir="false" afterPath="$PROJECT_DIR$/stylish/myCV_zh.fls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylish/myCV_zh.log" beforeDir="false" afterPath="$PROJECT_DIR$/stylish/myCV_zh.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylish/myCV_zh.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/stylish/myCV_zh.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylish/myCV_zh.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/stylish/myCV_zh.synctex.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylish/myCV_zh.tex" beforeDir="false" afterPath="$PROJECT_DIR$/stylish/myCV_zh.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylish/myCV_zh.xdv" beforeDir="false" afterPath="$PROJECT_DIR$/stylish/myCV_zh.xdv" afterDir="false" />
-    </list>
+    <list default="true" id="396135c6-25b0-4814-ab45-f8c46aab2c27" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +15,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="418">
-                <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <first_editor relative-caret-position="218">
+                <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="95" />
               </first_editor>
               <second_editor />
             </state>
@@ -65,7 +55,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="275" />
     <option name="y" value="79" />
     <option name="width" value="1501" />
@@ -206,15 +196,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525144419226</updated>
-      <workItem from="1525144420933" duration="861000" />
+      <workItem from="1525144420933" duration="1151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="861000" />
+    <option name="totallyTimeSpent" value="1151000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="275" y="79" width="1501" height="920" extended-state="1" />
+    <frame x="275" y="79" width="1501" height="920" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" />
@@ -258,8 +248,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="418">
-            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <first_editor relative-caret-position="218">
+            <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="95" />
           </first_editor>
           <second_editor />
         </state>
