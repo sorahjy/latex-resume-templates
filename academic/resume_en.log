@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.20)  1 MAY 2018 00:10
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.20)  1 MAY 2018 10:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -129,15 +129,15 @@ LaTeX Font Info:    ... okay on input line 8.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(54.2025pt, 505.89pt, 54.2025pt)
-* v-part:(T,H,B)=(43.36243pt, 708.24513pt, 43.36243pt)
+* h-part:(L,W,R)=(50.58878pt, 513.11745pt, 50.58878pt)
+* v-part:(T,H,B)=(36.135pt, 722.7pt, 36.135pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=505.89pt
-* \textheight=708.24513pt
-* \oddsidemargin=-18.06749pt
-* \evensidemargin=-18.06749pt
-* \topmargin=-65.90756pt
+* \textwidth=513.11745pt
+* \textheight=722.7pt
+* \oddsidemargin=-21.68121pt
+* \evensidemargin=-21.68121pt
+* \topmargin=-73.135pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -175,10 +175,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  1585 strings out of 493005
  23178 string characters out of 6134596
- 98734 words of memory out of 5000000
+ 98726 words of memory out of 5000000
  5564 multiletter control sequences out of 15000+600000
  6443 words of font info for 31 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 30i,5n,22p,198b,262s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,5n,23p,196b,262s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume_en.xdv (1 page, 22936 bytes).
+Output written on resume_en.xdv (1 page, 23544 bytes).
