@@ -14,7 +14,7 @@ https://github.com/sorahjy/latex-resume-templates/tree/master/academic
 
 ## 2.sorahjy的时尚风格简历模板
 
-* 点击以下网址访问：
+* 点击以下网址访问该模版：
 https://github.com/sorahjy/latex-resume-templates/tree/master/stylish
 
 * 本模版的预览如下：
