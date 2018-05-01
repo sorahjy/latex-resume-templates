@@ -1,7 +1,19 @@
+% author:sorahjy
 \documentclass{sorahjy_cv}
 %\usepackage[colorlinks,linkcolor=red]{hyperref}
 \usepackage{enumitem}
 \usepackage{graphicx}
+
+
+%Chinese Support 中文支持
+\usepackage{xeCJK}
+\usepackage{xltxtra}
+\XeTeXlinebreaklocale "zh"
+% \XeTeXlinebreakskip = 0pt plus 1pt 
+% \setmainfont[Mapping=tex-text]{Times New Roman} % rm
+% \setsansfont[Mapping=tex-text]{Arial}           % sf
+% \setmonofont{Courier New}                       % tt
+
 
 
 
@@ -10,12 +22,15 @@
 
 
 % Name, phone, email, etc.
+% You can adjust the spacing by adding spaces.
+% such as :   \     \quad   \qquad
+% 中文解释:   1/3空格  1个空格   2个空格
 \begin{cvHeader}
-	\printName{Junyang Huang}
-	\printPhone{(+86)180-1900-2473 \qquad \qquad \qquad}
-	\printEmail{sorahjy@gmail.com \qquad \qquad \qquad \ }
-	\printWebsite{https://blog.sorahjy.com}
-	\printGithub{https://github.com/sorahjy}
+	\printName{Your Name 你的名字}
+	\printPhone{(+86)000-0000-0000 \qquad \qquad \qquad}
+	\printEmail{your\_mail@gmail.com \qquad \qquad  \ }
+	\printWebsite{https://your.website.com}
+	\printGithub{https://github.com/your_name}
 \end{cvHeader}
 
 %
@@ -23,31 +38,30 @@
 %
 
 \sectionTitle{Education}
-\begin{sectionContentSimple}{University of Shanghai for Science and Technology}{Sep. 2015 - Present}
+\begin{sectionContentSimple}{Your University}{Sep. 2015 - Present}
 	\item B.Eng. in Computer Science and Technology
 	\begin{itemize}
-		\item Overall GPA: 4.03 \quad Rank: 1/107
+		\item GPA: 0.00 \quad Rank: 0/000 \quad Advisor: Assoc. Prof. XXX XXX
 	\end{itemize}
-	\item Advisor: Assoc. Prof. Huan Huo
 \end{sectionContentSimple}
 
 %
 % Experience
 %
 
-% \sectionTitle{Experience}
+\sectionTitle{Experience}
 
-% \begin{sectionContentNormal}{Hotel Management System.}{Oct. 2017 - Jan. 2018}{Member of Academic Dept.}
-% 	\item XXXXXXXXXXXXXXXXXXXXXXXXX
-% \end{sectionContentNormal}
+\begin{sectionContentNormal}{AIESEC.}{Oct. 2017 - Jan. 2018}{Volunteer}
+	\item Interact with physically challenged childerns.
+\end{sectionContentNormal}
 
-% \begin{sectionContentNormal}{Collaborative Filtering Recommendation Model based on Convolutional Denoising Auto Encoder.}{Oct. 2017 - Present }{Intern}
-% 	\item Did research on XXXXXXXXXXXXXX
-% \end{sectionContentNormal}
+\begin{sectionContentNormal}{XXXX Company.}{Oct. 2017 - Present }{Intern}
+	\item XXXXXXXXXXXXXX
+\end{sectionContentNormal}
 
-% \begin{sectionContentNormal}{A Portable Integrated Identity Authentication Method.}{Dec. 2017 - Mar. 2018}{Student Research Assistant}
-% 	\item Did research project about XXXXXXXXXXXXX
-% \end{sectionContentNormal}
+\begin{sectionContentNormal}{XXXX Lab.}{Dec. 2017 - Mar. 2018}{Student Research Assistant}
+	\item Did research project about XXXXXXXXXXXXX
+\end{sectionContentNormal}
 
 
 %
@@ -57,6 +71,7 @@
 \sectionTitle{Skills}
 \begin{description}{}
 	\item{\ \ }  Java, C/C++, Python, Html5/CSS3/JavaScript, Linux Shell Script, SQL, \LaTeX, MarkDown
+	\item{\ \ } Algorithm, Vue.js, Hadoop, Spark, Bayesian Methods, Machine Learning, Data Mining, Spring Boot
 \end{description}
 
 
@@ -66,16 +81,11 @@
 
 \sectionTitle{Awards, Grants \& Honors}
 \begin{description}{}
-	\item{\ \ } First Class Scholarship in four successive semesters (2016-2018).
-	\item{\ \ } Merit Student of University of Shanghai for Science and Technology, 2016 - 2017 Acadamic Year
-	\item{\ \ } Shanghai Scholarship in 2016 - 2017 Academic Year
-	\item{\ \ } The 8th Lan Qiao Cup (Java) Shanghai Site {\color{orangeRed}First Prize} \& National {\color{orangeRed}Second Prize}
-	\item{\ \ } China Undergraduates Mathematical Contest in Modeling Shanghai Region {\color{orangeRed}Third Prize}
-	\item{\ \ } The ACM-ICPC Asia Regional Contest Qingdao Site 2017 {\color{orangeRed}Silver Medal}
-	\item{\ \ } 2017 Asia and Pacific Mathematical Contest in Modeling {\color{orangeRed}Second Prize}
-	\item{\ \ } 2018 Mathematical Contest In Modeling {\color{orangeRed}Honorable Mention}
-	\item{\ \ } Group Programming Ladder Tournament Shanghai Region {\color{orangeRed}Grand Prize} \& National {\color{orangeRed}Third Prize}
-	\item{\ \ } The 9th Lan Qiao Cup (Java) Shanghai Site {\color{orangeRed}First Prize}
+	\item{\ \ } XXXX Class Scholarship.
+	\item{\ \ } Merit Student of XXXXXXXX, 2016 - 2017 Acadamic Year
+	\item{\ \ } XXXXXXXXXXXXXXXXXXXXX
+	\item{\ \ } China Undergraduates Mathematical Contest in Modeling {\color{orangeRed}XXXXXX Prize}
+	\item{\ \ } The ACM-ICPC Asia Regional Contest XXX Site 2017 {\color{orangeRed}XXXXXX Medal}
 \end{description}
 
 
@@ -83,22 +93,11 @@
 % Projects
 %
 
-\sectionTitle{Projects \& Experience}
+\sectionTitle{Projects}
 
-
-
-\begin{sectionContentSimple}{Hotel Management System.}{Oct. 2017 - Jan. 2018}
-	\item \url{https://github.com/sorahjy/HotelAstolfo}
-	\item Did the design of database schema and the coding of DAO \& unit test.
-\end{sectionContentSimple}
-
-\begin{sectionContentSimple}{Collaborative Filtering Recommendation Model based on Convolutional Denoising Auto Encoder.}{Oct. 2017 - Present }
-	\item Did research on Cold Start Problem. Collect and record experimental data.
-\end{sectionContentSimple}
-
-\begin{sectionContentSimple}{A Portable Integrated Identity Authentication Method.}{Dec. 2017 - Mar. 2018}
-	\item \url{https://github.com/sorahjy/Identity-Authentication-WeAPP}
-	\item An application based on face recognition technology and Time-Based One-Time Password Algorithm.
+\begin{sectionContentSimple}{XXXXXXX System}{Dec. 2017 - Mar. 2018}
+	\item \url{https://github.com/xxxxx/xxxxxxx}
+	\item An application based on XXXXXX.
 \end{sectionContentSimple}
 
 
@@ -118,8 +117,8 @@
 
 \sectionTitle{Certificates}
 \begin{description}{}
-	\item{\ \ } English: CET-4 590 | CET-6 534
-	\item{\ \ } Shanghai College Computer Examination Level II C Language (Excellent, Score: 99/100)
+	\item{\ \ } English: CET-4 000 | CET-6 000 | IELTs 0.0 | TOEFL 000 | XXXX
+	\item{\ \ } Other Certificates ....
 \end{description}
 
 
