@@ -19,7 +19,7 @@
 \newcommand{\printWebsite}[1]{{\em Website}: \url{#1}\qquad }
 \newcommand{\printGithub}[1]{{\em Github}: \url{#1}\\}
 %\newcommand{\printAddress}[1]{{\em Address}: #1\\}
-\newcommand{\sectionTitle}[1]{\vspace{1em}\textbf{\Large {\color{orangeRed}\textsc{#1}}}\vspace{0.5em}{\color{orangeRed}\hrule}}
+\newcommand{\sectionTitle}[1]{\vspace{0.5em}\textbf{\Large {\color{orangeRed}\textsc{#1}}}\vspace{0.5em}{\color{orangeRed}\hrule}}
 
 \newenvironment{cvHeader}{\begin{center}}{\end{center}}
 \newenvironment{sectionItemize}[1]{
