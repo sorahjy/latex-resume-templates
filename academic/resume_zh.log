@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.20)  1 MAY 2018 14:40
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.20)  3 MAY 2018 19:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1123,7 +1123,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 19.
 
 LaTeX Font Warning: Font shape `TU/lmr/bx/sc' undefined
-(Font)              using `TU/lmr/bx/n' instead on input line 27.
+(Font)              using `TU/lmr/bx/n' instead on input line 28.
 
 [1
 
@@ -1133,12 +1133,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 17971 strings out of 493005
- 364876 string characters out of 6134596
- 415506 words of memory out of 5000000
- 21852 multiletter control sequences out of 15000+600000
+ 18029 strings out of 493005
+ 369305 string characters out of 6134596
+ 416508 words of memory out of 5000000
+ 21910 multiletter control sequences out of 15000+600000
  6507 words of font info for 39 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  41i,5n,67p,10436b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume_zh.xdv (1 page, 19732 bytes).
+Output written on resume_zh.xdv (1 page, 20440 bytes).
