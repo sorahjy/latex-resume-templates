@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1525440913 "黄君扬-求职.xdv" "黄君扬-求职.pdf" "黄君扬-求职" 1525451529
-  "黄君扬-求职.xdv" 1525440913 22780 b091c819a81d2372c1e8b832e682506f "xelatex"
+["xdvipdfmx"] 1526287286 "黄君扬-求职.xdv" "黄君扬-求职.pdf" "黄君扬-求职" 1526287287
+  "黄君扬-求职.xdv" 1526287286 22392 9c96ce92865ce70f0cf07300d455db39 "xelatex"
   (generated)
   "黄君扬-求职.pdf"
-["xelatex"] 1525440911 "黄君扬-求职.tex" "黄君扬-求职.xdv" "黄君扬-求职" 1525451529
+["xelatex"] 1526287284 "黄君扬-求职.tex" "黄君扬-求职.xdv" "黄君扬-求职" 1526287287
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1480098701 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1480098701 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -60,10 +60,10 @@
   "/usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf" 1494087824 32646 eadc4ca26cdbe7105ac7c593aa8c4f72 ""
   "/usr/local/texlive/2017/texmf-var/web2c/xetex/xelatex.fmt" 1519097376 3678524 f7103d26e18b2a0f80a83839d10c527b ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "sorahjy_cv.cls" 1525261877 1706 aea549e8ac0d979333f49c5e712ac93b ""
-  "黄君扬-求职.aux" 1525440913 8 a94a2480d3289e625eea47cd1b285758 ""
-  "黄君扬-求职.tex" 1525440911 5769 25ca56f323e902875452b6ba828bae70 ""
+  "sorahjy_cv.cls" 1525528896 1706 aea549e8ac0d979333f49c5e712ac93b ""
+  "黄君扬-求职.aux" 1526287286 8 a94a2480d3289e625eea47cd1b285758 ""
+  "黄君扬-求职.tex" 1526287283 5703 5d777d5c4a38caee0e3e5328ee7b8d2d ""
   (generated)
   "黄君扬-求职.xdv"
-  "黄君扬-求职.aux"
   "黄君扬-求职.log"
+  "黄君扬-求职.aux"

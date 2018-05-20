@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.20)  14 MAY 2018 16:41
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.20)  16 MAY 2018 18:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**黄君扬-求职.tex
-(./黄君扬-求职.tex
+**黄君扬-求职阿里.tex
+(./黄君扬-求职阿里.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (./sorahjy_cv.cls
@@ -977,8 +977,8 @@ ai-Regular}].
 . - 'italic' (m/it) with NFSS spec.: <->"[FandolKai-Regular.otf]/OT"
 . - 'italic small caps'  (m/itsc) with NFSS spec.: 
 .................................................
-(./黄君扬-求职.aux)
-\openout1 = `黄君扬-求职.aux'.
+(./黄君扬-求职阿里.aux)
+\openout1 = `黄君扬-求职阿里.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
@@ -1132,18 +1132,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 19.
 [1
 
-] (./黄君扬-求职.aux)
+] (./黄君扬-求职阿里.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
  18040 strings out of 493005
- 369665 string characters out of 6134596
- 419505 words of memory out of 5000000
+ 369683 string characters out of 6134596
+ 419507 words of memory out of 5000000
  21917 multiletter control sequences out of 15000+600000
  6539 words of font info for 43 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 41i,5n,67p,10433b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,5n,67p,10435b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 黄君扬-求职.xdv (1 page, 22392 bytes).
+Output written on 黄君扬-求职阿里.xdv (1 page, 22468 bytes).

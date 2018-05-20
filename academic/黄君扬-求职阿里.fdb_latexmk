@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1525679529 "resume_zh.xdv" "resume_zh.pdf" "resume_zh" 1525679534
-  "resume_zh.xdv" 1525679529 20380 c3ef8213eb06a62f1c6bf5c998c466b3 "xelatex"
+["xdvipdfmx"] 1526467306 "黄君扬-求职阿里.xdv" "黄君扬-求职阿里.pdf" "黄君扬-求职阿里" 1526467306
+  "黄君扬-求职阿里.xdv" 1526467306 22468 1facfb0da3fc882b8862948b1f653944 "xelatex"
   (generated)
-  "resume_zh.pdf"
-["xelatex"] 1525679527 "resume_zh.tex" "resume_zh.xdv" "resume_zh" 1525679534
+  "黄君扬-求职阿里.pdf"
+["xelatex"] 1526467303 "黄君扬-求职阿里.tex" "黄君扬-求职阿里.xdv" "黄君扬-求职阿里" 1526467306
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1480098701 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1480098701 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -60,10 +60,10 @@
   "/usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf" 1494087824 32646 eadc4ca26cdbe7105ac7c593aa8c4f72 ""
   "/usr/local/texlive/2017/texmf-var/web2c/xetex/xelatex.fmt" 1519097376 3678524 f7103d26e18b2a0f80a83839d10c527b ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "resume_zh.aux" 1525679529 8 a94a2480d3289e625eea47cd1b285758 ""
-  "resume_zh.tex" 1525679527 4790 bdcc8b2f8e9c4e5a72114b584aa4bc1e ""
   "sorahjy_cv.cls" 1525528896 1706 aea549e8ac0d979333f49c5e712ac93b ""
+  "黄君扬-求职阿里.aux" 1526467306 8 a94a2480d3289e625eea47cd1b285758 ""
+  "黄君扬-求职阿里.tex" 1526467302 5073 0109cd1e31fed1742f72f8eaf7d6cb08 ""
   (generated)
-  "resume_zh.log"
-  "resume_zh.aux"
-  "resume_zh.xdv"
+  "黄君扬-求职阿里.log"
+  "黄君扬-求职阿里.xdv"
+  "黄君扬-求职阿里.aux"
