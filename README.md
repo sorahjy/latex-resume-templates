@@ -4,7 +4,7 @@
 
 ## 1.一种学术风格的简历模版
 
-> * 原作者: sorahjy
+> * 原作者: 本人(sorahjy)
 > * 创作时间: May. 2018
 
 * 点击以下网址访问该模版：
@@ -30,9 +30,7 @@ https://github.com/sorahjy/latex-resume-templates/tree/master/stylish
 ![Image text](https://github.com/sorahjy/latex-resume-templates/blob/master/stylish/myCV_zh.png)
 
 
-感谢您的阅读。
-这些模版的源代码在我的github上，欢迎follow和star。
-网址为：https://github.com/sorahjy/latex-resume-templates
+
 转载请注明原作者和原文地址，谢谢。
 
 作者 [@sorahjy][1]<br />
