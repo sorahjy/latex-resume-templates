@@ -1,9 +1,9 @@
-PWD /Users/sorahjy/Desktop/github/latex-resume-templates/academic
+PWD /Users/sorahjy/Desktop/github/latex-resume-templates/academic/推免面试
 INPUT /usr/local/texlive/2018/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-var/web2c/xetex/xelatex.fmt
-INPUT resume_zh.tex
-OUTPUT resume_zh.log
+INPUT 推免简历.tex
+OUTPUT 推免简历.log
 INPUT sorahjy_cv.cls
 INPUT sorahjy_cv.cls
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
@@ -89,9 +89,9 @@ INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/realscripts/realscripts.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/realscripts/realscripts.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/metalogo/metalogo.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/metalogo/metalogo.sty
-INPUT resume_zh.aux
-INPUT resume_zh.aux
-OUTPUT resume_zh.aux
+INPUT 推免简历.aux
+INPUT 推免简历.aux
+OUTPUT 推免简历.aux
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
@@ -101,5 +101,5 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
-OUTPUT resume_zh.xdv
-INPUT resume_zh.aux
+OUTPUT 推免简历.xdv
+INPUT 推免简历.aux

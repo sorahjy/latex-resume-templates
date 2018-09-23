@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1536038817 "resume_zh.xdv" "resume_zh.pdf" "resume_zh" 1536895595
-  "resume_zh.xdv" 1536038817 19772 acc6d2319d98e1ef59122610e9ac7d6f "xelatex"
+["xdvipdfmx"] 1537091220 "推免简历.xdv" "推免简历.pdf" "推免简历" 1537091370
+  "推免简历.xdv" 1537091220 23544 20004c6a047f54355ace7f79e127e004 "xelatex"
   (generated)
-  "resume_zh.pdf"
-["xelatex"] 1536038816 "resume_zh.tex" "resume_zh.xdv" "resume_zh" 1536895595
+  "推免简历.pdf"
+["xelatex"] 1537091219 "推免简历.tex" "推免简历.xdv" "推免简历" 1537091370
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1480098701 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1480098701 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -55,10 +55,10 @@
   "/usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf" 1522066949 33362 cf75436e19743e94a92a6b1b9183c434 ""
   "/usr/local/texlive/2018/texmf-var/web2c/xetex/xelatex.fmt" 1533225804 3731935 f6d5782ea4df064167c4f39e33f6482d ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "resume_zh.aux" 1536038817 8 a94a2480d3289e625eea47cd1b285758 ""
-  "resume_zh.tex" 1536039004 4878 597fdfdd70975943ff2ed3e3aa0a92bc ""
   "sorahjy_cv.cls" 1536026943 1706 aea549e8ac0d979333f49c5e712ac93b ""
+  "推免简历.aux" 1537091220 8 a94a2480d3289e625eea47cd1b285758 ""
+  "推免简历.tex" 1537091218 6148 72bbfb4ad6bb3539e4dd0f08ca9fc6b4 ""
   (generated)
-  "resume_zh.log"
-  "resume_zh.aux"
-  "resume_zh.xdv"
+  "推免简历.log"
+  "推免简历.aux"
+  "推免简历.xdv"
